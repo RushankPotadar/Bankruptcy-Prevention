@@ -39,7 +39,7 @@ The Excel dataset includes company financials and a target label indicating bank
 
 ### 📌 How to Use
 1. Clone this repository
-2. Install dependencies using `pip install -r requirements.txt` (if available)
-3. Open and run `Bank_Prev.ipynb` to explore and modify the project
+2. Open and run `Bankruptcy_Prevention-6.ipynb` to explore and modify the project
+3. For the final output, run 'Bank_Prev.py'
 4. Use `Bankruptcy_Prevention.pkl` for predictions with new data
 
